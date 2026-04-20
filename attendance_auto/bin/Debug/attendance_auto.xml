@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+attendance_auto
+</name>
+</assembly>
+<members>
+<member name="P:attendance_auto.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20250815_WA0053">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20250815_WA0054">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA0013">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA0014">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA0015">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA0020">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA0024">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA00241">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA0027">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA00271">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.IMG_20251020_WA0031">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:attendance_auto.My.Resources.Resources.person_gray_photo_placeholder_man_vector_23519834">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:attendance_auto.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
