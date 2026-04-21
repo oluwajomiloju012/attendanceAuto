@@ -4,3 +4,22 @@ To address this problem, I developed a Biometric Attendance Management System th
 In addition, the system provides a detailed and verifiable attendance report, including the number of days present, exact check-in times, and check out times. These records can be exported and printed, allowing students to present valid proof of attendance during SIWES or IT defense, thereby increasing credibility and trust in their documentation.
 This solution not only improves reliability in attendance tracking but also promotes a culture of discipline, responsibility, and integrity among users.
 Beyond being just a software application, this system serves as a practical tool for bridging the gap between expected professional behavior and actual practice encouraging punctuality, accountability, and transparency in real world environments.
+
+Features
+- Fingerprint biometric check-in and check-out
+- Accurate time stamping (no proxy attendance)
+- Detailed attendance reports
+- Export and print attendance records
+- Admin management dashboard
+
+ Technologies Used
+- Visual Basic .NET
+- MySQL Database
+- Fingerprint Biometric Scanner
+
+Developers
+Faderin Daniel Ayodeji – McPherson University
+Adebusola praise – McPherson University
+Apara Richard  – McPherson U
+niversity
+NACOS Buildathon 2026
